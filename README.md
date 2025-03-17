@@ -9,15 +9,15 @@ Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com
 
 ### DE: 
 
-https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/DE/update.json
+https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/DE/update.json
 
 ### EU:
 
-https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/EU/update.json
+https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/EU/update.json
 
 ### US:
 
-https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/US/update.json
+https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/US/update.json
 
 
 
