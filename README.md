@@ -1,4 +1,4 @@
-# KQi 300X and 300P scooter Firmware repository
+# KQi 300X and 300P Scooter Firmware Repository
 Repository with firmwares for the KQi 300X and KQi 300P scooters, these files where collected from various places. Also the JSON descriptors values are provided with information like the filename, type and MD5.
 
 Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com/watch?v=40BTCnkcEHg
