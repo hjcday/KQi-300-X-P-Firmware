@@ -15,9 +15,11 @@ https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/DE/update.json
 
 https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/EU/update.json
 
+Has max speed of 25km/h, Halo Ring Daytime Light, Cruise Control
+
 ### US:
 
 https://github.com/hjcday/KQi-300X-Firmware/raw/main/300X/US/update.json
 
-
+Has max speed of 38km/h, Halo Ring Daytime Light, Cruise Control
 
