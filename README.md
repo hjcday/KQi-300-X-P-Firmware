@@ -3,7 +3,7 @@ Repository with firmwares for the KQi 300X and KQi 300P scooters, these files wh
 
 Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com/watch?v=40BTCnkcEHg
 
-# KQi 300P in progress
+## KQi 300P in progress
 
 ## Kqi 300X
 
