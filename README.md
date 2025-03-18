@@ -13,6 +13,8 @@ Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com
 
 https://github.com/hjcday/KQi-300-X-P-Firmware/raw/main/300X/DE/update.json
 
+Has max speed of 22km/h and some features are disabled to comply with German regulations
+
 ### EU:
 
 https://github.com/hjcday/KQi-300-X-P-Firmware/raw/main/300X/EU/update.json
