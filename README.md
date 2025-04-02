@@ -5,7 +5,12 @@ You will need to download a modified version of the NIU app from this link for t
 
 Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com/watch?v=40BTCnkcEHg
 
+There is also a screen recording video, thanks to Aiden Amur.
+https://youtu.be/GPu56XE8uBI
+
 ## KQi 300P in progress
+
+KQi 300p motor controller upgrades are not yet available for capturing. If you have a 300p and are notified in the app that there is a firmware update available, do not install it - raise an issue here and instructions will be provided so we can capture it.
 
 ## Kqi 300X
 
