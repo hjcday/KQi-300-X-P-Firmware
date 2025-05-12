@@ -12,6 +12,10 @@ https://youtu.be/GPu56XE8uBI
 
 KQi 300p motor controller upgrades are not yet available for capturing. If you have a 300p and are notified in the app that there is a firmware update available, do not install it - raise an issue here and instructions will be provided so we can capture it.
 
+Some users have reported that installing the 300x firmware on a 300p has allowed them to reach full speeds, however if the scooter is set to maximum accelleration, then an error code is thrown.
+By setting the accelleration lower this error can be avoided. 
+It should be noted that there is currently no way to revert a 300p back to its true firmware, therefore should anything fail on your 300p, you likely will not be able to make a warranty claim as the 300x firmware will be evident.
+
 ## Kqi 300X
 
 ### DE: 
